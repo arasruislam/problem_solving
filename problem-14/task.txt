@@ -1,0 +1,5 @@
+Check Prime Number
+
+Description: Write a program that checks if a given number is prime.
+Input: 7
+Output: Prime

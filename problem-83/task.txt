@@ -1,0 +1,5 @@
+Calculate BMI
+
+Description: Write a program that calculates the Body Mass Index (BMI).
+Input: 70 1.75 (weight in kg, height in meters)
+Output: 22.86

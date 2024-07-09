@@ -1,0 +1,5 @@
+Replace Character in String
+
+Description: Write a program that replaces all occurrences of a character in a string with another character.
+Input: hello l z
+Output: hezzo

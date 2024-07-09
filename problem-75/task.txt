@@ -1,0 +1,5 @@
+Convert Fahrenheit to Celsius
+
+Description: Write a program that converts temperature from Fahrenheit to Celsius.
+Input: 32
+Output: 0

@@ -1,0 +1,5 @@
+Check Harshad Number
+
+Description: Write a program that checks if a number is a Harshad number.
+Input: 18
+Output: Harshad

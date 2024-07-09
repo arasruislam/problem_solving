@@ -1,0 +1,4 @@
+Find Sum of Array Except Self
+- Description: Write a program that finds the sum of all elements in an array except the current element.
+- Input: 1 2 3 4
+- Output: 9 8 7 6

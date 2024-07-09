@@ -1,0 +1,5 @@
+Find Factors of a Number
+
+Description: Write a program that finds all factors of a given number.
+Input: 12
+Output: 1 2 3 4 6 12

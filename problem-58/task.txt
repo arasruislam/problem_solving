@@ -1,0 +1,5 @@
+Check Perfect Number
+
+Description: Write a program that checks if a given number is a perfect number.
+Input: 6
+Output: Perfect

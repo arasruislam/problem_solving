@@ -1,0 +1,4 @@
+Check Happy Number
+- Description: Write a program that checks if a number is a happy number.
+- Input: 19
+- Output: Happy

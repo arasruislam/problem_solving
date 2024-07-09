@@ -1,0 +1,4 @@
+Count Words in String
+- Description: Write a program that counts the number of words in a given string.
+- Input: The quick brown fox jumps over the lazy dog
+- Output: 9

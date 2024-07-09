@@ -1,0 +1,5 @@
+Rotate Array Left
+
+Description: Write a program that rotates an array to the left by one position.
+Input: 1 2 3 4 5
+Output: 2 3 4 5 1

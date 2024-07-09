@@ -1,0 +1,5 @@
+Convert String to Lowercase
+
+Description: Write a program that converts a given string to lowercase.
+Input: HELLO
+Output: hello

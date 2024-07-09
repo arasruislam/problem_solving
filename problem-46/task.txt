@@ -1,0 +1,5 @@
+Binary Search in Array
+
+Description: Write a program that performs binary search for a number in a sorted array.
+Input: 1 2 3 4 5, 3
+Output: Found

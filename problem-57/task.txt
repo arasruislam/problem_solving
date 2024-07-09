@@ -1,0 +1,5 @@
+Find All Prime Numbers in Range
+
+Description: Write a program that finds all prime numbers in a given range.
+Input: 1 10
+Output: 2 3 5 7

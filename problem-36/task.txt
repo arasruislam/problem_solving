@@ -1,0 +1,5 @@
+Sum of Cubes of Natural Numbers
+
+Description: Write a program that calculates the sum of the cubes of the first n natural numbers.
+Input: 3
+Output: 36

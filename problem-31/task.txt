@@ -1,0 +1,5 @@
+Check Substring
+
+Description: Write a program that checks if a given string is a substring of another string.
+Input: hello lo
+Output: True

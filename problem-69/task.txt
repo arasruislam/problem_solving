@@ -1,0 +1,4 @@
+Generate Random Number
+
+Description: Write a program that generates a random number between 1 and 100.
+Output: 42

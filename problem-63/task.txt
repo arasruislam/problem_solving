@@ -1,0 +1,5 @@
+Convert Decimal to Binary
+
+Description: Write a program that converts a decimal number to binary.
+Input: 10
+Output: 1010

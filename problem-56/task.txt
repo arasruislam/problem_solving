@@ -1,0 +1,5 @@
+Calculate Square Root
+
+Description: Write a program that calculates the square root of a number.
+Input: 16
+Output: 4

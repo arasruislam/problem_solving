@@ -1,0 +1,5 @@
+Find Minimum of Two Numbers
+
+Description: Write a program that takes two integers and returns the minimum.
+Input: 7 10
+Output: 7

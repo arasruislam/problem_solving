@@ -1,0 +1,5 @@
+Calculate Area of Rectangle
+
+Description: Write a program that calculates the area of a rectangle.
+Input: 5 10 (length, width)
+Output: 50

@@ -1,0 +1,4 @@
+Check Armstrong Number in Range
+- Description: Write a program that finds all Armstrong numbers in a given range.
+- Input: 1 500
+- Output: 1 153 370 371 407

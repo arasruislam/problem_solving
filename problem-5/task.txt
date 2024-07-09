@@ -1,0 +1,5 @@
+Product of Two Numbers
+
+Description: Write a program that takes two integers and returns their product.
+Input: 4 3
+Output: 12

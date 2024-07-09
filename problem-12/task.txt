@@ -1,0 +1,5 @@
+Reverse a Number
+
+Description: Write a program that takes a number and returns its reverse.
+Input: 123
+Output: 321

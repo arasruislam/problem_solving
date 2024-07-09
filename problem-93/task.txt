@@ -1,0 +1,5 @@
+Calculate Sum of AP Series
+
+Description: Write a program that calculates the sum of an arithmetic progression series.
+Input: 1 2 10 (first term, common difference, number of terms)
+Output: 55

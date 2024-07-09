@@ -1,0 +1,4 @@
+Find Longest Word in String
+- Description: Write a program that finds the longest word in a given string.
+- Input: The quick brown fox jumps over the lazy dog
+- Output: jumps

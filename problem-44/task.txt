@@ -1,0 +1,5 @@
+Find Mode of Array
+
+Description: Write a program that finds the mode of an array.
+Input: 1 2 2 3 4
+Output: 2

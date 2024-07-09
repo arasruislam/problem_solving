@@ -1,0 +1,5 @@
+Check Armstrong Number
+
+Description: Write a program that checks if a given number is an Armstrong number.
+Input: 153
+Output: Armstrong

@@ -1,0 +1,5 @@
+Calculate Sum of Odd Numbers
+
+Description: Write a program that calculates the sum of odd numbers up to a given number.
+Input: 10
+Output: 25

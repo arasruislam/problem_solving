@@ -1,0 +1,5 @@
+Calculate Perimeter of Rectangle
+
+Description: Write a program that calculates the perimeter of a rectangle.
+Input: 5 10 (length, width)
+Output: 30

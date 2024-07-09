@@ -1,0 +1,5 @@
+Convert Hexadecimal to Decimal
+
+Description: Write a program that converts a hexadecimal number to decimal.
+Input: FF
+Output: 255

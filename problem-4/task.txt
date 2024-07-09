@@ -1,0 +1,5 @@
+Difference of Two Numbers
+
+Description: Write a program that takes two integers and returns their difference.
+Input: 5 3
+Output: 2

@@ -1,0 +1,5 @@
+Calculate Area of Circle
+
+Description: Write a program that calculates the area of a circle.
+Input: 5 (radius)
+Output: 78.54

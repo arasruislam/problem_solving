@@ -1,0 +1,5 @@
+Find Largest Prime Factor
+
+Description: Write a program that finds the largest prime factor of a given number.
+Input: 56
+Output: 7

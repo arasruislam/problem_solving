@@ -1,0 +1,5 @@
+Check Perfect Square
+
+Description: Write a program that checks if a given number is a perfect square.
+Input: 16
+Output: Perfect Square

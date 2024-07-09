@@ -1,0 +1,5 @@
+Calculate Area of Rhombus
+
+Description: Write a program that calculates the area of a rhombus.
+Input: 5 6 (diagonals)
+Output: 15

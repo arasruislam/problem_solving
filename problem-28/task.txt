@@ -1,0 +1,5 @@
+Convert String to Uppercase
+
+Description: Write a program that converts a given string to uppercase.
+Input: hello
+Output: HELLO

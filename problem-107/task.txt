@@ -1,0 +1,4 @@
+Check Palindrome Sentence
+- Description: Write a program that checks if a given sentence is a palindrome.
+- Input: A man a plan a canal Panama
+- Output: Palindrome

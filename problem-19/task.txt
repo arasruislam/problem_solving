@@ -1,0 +1,5 @@
+Count Number of Digits
+
+Description: Write a program that takes a number and returns the count of digits.
+Input: 12345
+Output: 5

@@ -1,0 +1,5 @@
+Check Perfect Cube
+
+Description: Write a program that checks if a given number is a perfect cube.
+Input: 27
+Output: Perfect Cube

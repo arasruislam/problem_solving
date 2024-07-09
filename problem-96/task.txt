@@ -1,0 +1,5 @@
+Find ASCII Value of Character
+
+Description: Write a program that finds the ASCII value of a given character.
+Input: A
+Output: 65

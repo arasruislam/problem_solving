@@ -1,0 +1,4 @@
+Check Anagram Strings
+- Description: Write a program that checks if two strings are anagrams.
+- Input: listen silent
+- Output: Anagram

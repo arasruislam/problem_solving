@@ -1,0 +1,5 @@
+Find LCM of Two Numbers
+
+Description: Write a program that takes two integers and returns their LCM.
+Input: 4 5
+Output: 20

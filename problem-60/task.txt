@@ -1,0 +1,5 @@
+Check Deficient Number
+
+Description: Write a program that checks if a given number is a deficient number.
+Input: 8
+Output: Deficient

@@ -1,0 +1,5 @@
+Sum of Digits of a Number
+
+Description: Write a program that takes a number and returns the sum of its digits.
+Input: 123
+Output: 6

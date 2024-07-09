@@ -1,0 +1,5 @@
+Sum of Squares of Natural Numbers
+
+Description: Write a program that calculates the sum of the squares of the first n natural numbers.
+Input: 3
+Output: 14

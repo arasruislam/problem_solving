@@ -1,0 +1,5 @@
+Calculate Perimeter of Triangle
+
+Description: Write a program that calculates the perimeter of a triangle.
+Input: 3 4 5 (side1, side2, side3)
+Output: 12

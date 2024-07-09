@@ -1,0 +1,5 @@
+Find Smallest Prime Factor
+
+Description: Write a program that finds the smallest prime factor of a given number.
+Input: 56
+Output: 2

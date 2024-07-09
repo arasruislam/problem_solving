@@ -1,0 +1,5 @@
+Linear Search in Array
+
+Description: Write a program that performs linear search for a number in an array.
+Input: 1 2 3 4 5, 3
+Output: Found

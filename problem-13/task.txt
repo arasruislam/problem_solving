@@ -1,0 +1,5 @@
+Check Palindrome Number
+
+Description: Write a program that checks if a given number is a palindrome.
+Input: 121
+Output: Palindrome

@@ -1,0 +1,5 @@
+Quotient of Two Numbers
+
+Description: Write a program that takes two integers and returns their quotient.
+Input: 8 2
+Output: 4

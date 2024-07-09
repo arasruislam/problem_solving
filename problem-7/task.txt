@@ -1,0 +1,5 @@
+Remainder of Two Numbers
+
+Description: Write a program that takes two integers and returns the remainder when the first is divided by the second.
+Input: 7 3
+Output: 1

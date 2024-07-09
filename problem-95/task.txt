@@ -1,0 +1,5 @@
+Check Kaprekar Number
+
+Description: Write a program that checks if a number is a Kaprekar number.
+Input: 45
+Output: Kaprekar

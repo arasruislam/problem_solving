@@ -1,0 +1,5 @@
+Sum of Proper Divisors
+
+Description: Write a program that calculates the sum of proper divisors of a given number.
+Input: 12
+Output: 16

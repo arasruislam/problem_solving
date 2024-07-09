@@ -1,0 +1,5 @@
+Convert Octal to Decimal
+
+Description: Write a program that converts an octal number to decimal.
+Input: 10
+Output: 8

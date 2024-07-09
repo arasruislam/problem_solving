@@ -1,0 +1,5 @@
+Calculate Area of Triangle
+
+Description: Write a program that calculates the area of a triangle.
+Input: 5 10 (base, height)
+Output: 25

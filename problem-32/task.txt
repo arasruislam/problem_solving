@@ -1,0 +1,5 @@
+Concatenate Two Strings
+
+Description: Write a program that concatenates two strings.
+Input: hello world
+Output: helloworld

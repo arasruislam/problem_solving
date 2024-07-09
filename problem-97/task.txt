@@ -1,0 +1,5 @@
+Calculate Sum of GP Series
+
+Description: Write a program that calculates the sum of a geometric progression series.
+Input: 1 2 3 (first term, common ratio, number of terms)
+Output: 7

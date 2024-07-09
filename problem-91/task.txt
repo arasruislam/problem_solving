@@ -1,0 +1,5 @@
+Check Automorphic Number
+
+Description: Write a program that checks if a number is an automorphic number.
+Input: 25
+Output: Automorphic

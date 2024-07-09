@@ -1,0 +1,5 @@
+Calculate Simple Interest
+
+Description: Write a program that calculates simple interest.
+Input: 1000 5 2 (Principal, Rate, Time)
+Output: 100

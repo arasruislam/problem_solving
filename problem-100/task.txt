@@ -1,0 +1,5 @@
+Calculate Perimeter of Rhombus
+
+Description: Write a program that calculates the perimeter of a rhombus.
+Input: 5 (side)
+Output: 20

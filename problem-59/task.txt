@@ -1,0 +1,5 @@
+Check Abundant Number
+
+Description: Write a program that checks if a given number is an abundant number.
+Input: 12
+Output: Abundant

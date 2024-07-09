@@ -1,0 +1,5 @@
+Find Length of String
+
+Description: Write a program that takes a string and returns its length.
+Input: hello
+Output: 5

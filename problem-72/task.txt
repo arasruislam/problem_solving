@@ -1,0 +1,5 @@
+Check Leap Year
+
+Description: Write a program that checks if a given year is a leap year.
+Input: 2020
+Output: Leap Year

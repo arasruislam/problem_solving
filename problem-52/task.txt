@@ -1,0 +1,5 @@
+Find Unique Elements in Array
+
+Description: Write a program that finds the unique elements in an array.
+Input: 1 2 2 3 4 4 5
+Output: 1 3 5
