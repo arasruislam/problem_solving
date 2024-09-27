@@ -1,4 +1,4 @@
-const MaxNumber = (a, b) => {
+const MinNumber = (a, b) => {
    if (a < b) {
       console.log(a, " is minimum number");
    } else {
@@ -7,4 +7,5 @@ const MaxNumber = (a, b) => {
 };
 
 
-MaxNumber(5, 8)
+MinNumber(5, 8)
+
